@@ -1,1 +1,3 @@
-﻿привет
+﻿#all txt files
+*.txt -все форматы файлов
+lib/dir
